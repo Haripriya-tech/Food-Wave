@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Waves_of_Food.app" target="17" />
       <module name="WavesofFood.app" target="17" />
     </bytecodeTargetLevel>
   </component>
