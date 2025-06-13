@@ -1,5 +1,5 @@
 # Waves of Food  
-Waves of Food is an Android application designed to enhance the food discovery experience. It allows users to search for dishes, and navigate smoothly through different sections of the app.
+Waves of Food is an Android application designed to enhance the food discovery experience. It allows users to search for dishes and navigate smoothly through different sections of the app.
 
 # Features  
 - **Login and Signup**: Basic UI implemented
@@ -15,6 +15,6 @@ Waves of Food is an Android application designed to enhance the food discovery e
 
 # Installation  
 To run the project locally:  
-1. Clone the repository:  https://github.com/Rakshita-BR/WavesOfFood.git
+1. Clone the repository:  https://github.com/Haripriya-tech/WavesOfFood.git
 2. Open in Android Studio  
 3. Build and run the app on an emulator or a physical device 
