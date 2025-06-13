@@ -15,6 +15,6 @@ Waves of Food is an Android application designed to enhance the food discovery e
 
 # Installation  
 To run the project locally:  
-1. Clone the repository:  https://github.com/Haripriya-tech/WavesOfFood.git
+1. Clone the repository:  https://github.com/Haripriya-tech/Food-Wave.git
 2. Open in Android Studio  
 3. Build and run the app on an emulator or a physical device 
